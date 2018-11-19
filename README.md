@@ -1,3 +1,7 @@
+## Note
+
+When cloning this repository, remove the file LICENSE, and in the package.json replace the name of the app with whatever app ID is appropriate for whatever is being created.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -7,9 +11,9 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Opens an electron window and uses port 3000 to host the react components.
 
-The page will reload if you make edits.<br>
+The page will reload if you make edits (untested).<br>
 You will also see any lint errors in the console.
 
 ### `npm test`
