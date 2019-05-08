@@ -1,6 +1,10 @@
 ## Note
 
-When cloning this repository, remove the file LICENSE, and in the package.json replace the name of the app with whatever app ID is appropriate for whatever is being created.
+When cloning this repository
+* Remove the file LICENSE
+* Replace app name in package.json
+* Run npm update to download dependencies
+* Fix git links: ```git remote remove origin``` ```git remote add origin <git_project_url>```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
